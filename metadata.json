@@ -1,0 +1,5 @@
+{
+  "name": "Copy of World Flag Elimination Challenge",
+  "description": "A physics-based elimination game where country flags bounce inside a rotating ring. The last flag remaining wins!",
+  "requestFramePermissions": []
+}
